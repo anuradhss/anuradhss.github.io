@@ -1,4 +1,4 @@
-# This Use Gihub Pages
+# This Use Github Pages
 
 # [Theme Used](https://startbootstrap.com/template-overviews/resume/)
 
